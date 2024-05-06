@@ -1,6 +1,6 @@
 ## Tesla Charging Stations in New Jersey
 
-Commandline Final Project - Prajwal Nagendra
+Command-line-GIS Final Project by Prajwal Nagendra
 
 <iframe src="Vehicle ownership vs Tesla charging stations.html" height="855" width="905"></iframe>
 
