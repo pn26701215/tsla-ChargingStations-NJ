@@ -2,9 +2,9 @@
 
 Command-line-GIS Final Project by Prajwal Nagendra
 
-<iframe src="Vehicle ownership vs Tesla charging stations.html" height="855" width="905"></iframe>
+<iframe src="Vehicle ownership vs Tesla charging stations, NJ.html" height="855" width="905"></iframe>
 
-You can also explore [this map as its own web page here](Vehicle ownership vs Tesla charging stations.html)
+You can also explore [this map as its own web page here](Vehicle ownership vs Tesla charging stations, NJ.html)
 
 ### Static Maps
 
